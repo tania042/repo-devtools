@@ -8,6 +8,6 @@ public class MessageRestController {
 
     @GetMapping("/mesaj")
     public String arataMesaj() {
-        return "Acesta este un mesaj!";
+        return "Acesta este un mesaj ok!!!!!!!";
     }
 }
